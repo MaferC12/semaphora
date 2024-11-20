@@ -1,4 +1,4 @@
-# semaphora
+# Explicación de los programas
 
 P_ini.c
 Programa inicial que configura los recursos necesarios para la comunicación entre procesos, se crea la semaphora con clave única, escribe un mensaje inicial en la memoria compartida escribe la cadena "003holaUCSP". El programa entra en un bucle while que espera hasta que el contenido de la memoria compartida sea una cadena vacía. 
